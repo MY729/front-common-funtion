@@ -1,5 +1,9 @@
 # 使用canvas一步步实现图片打码功能
 
+## 预览地址
+
+[https://my729.github.io/front-common-funtion/picture-code-demo/picture-code.html](https://my729.github.io/front-common-funtion/picture-code-demo/picture-code.html)
+
 ## 准备工作
 
 demo 基于 vue + elelment-ui
